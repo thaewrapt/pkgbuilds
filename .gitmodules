@@ -1,0 +1,3 @@
+[submodule "arch-bootstrap-current"]
+	path = arch-bootstrap-current
+	url = https://github.com/thaewrapt/arch-bootstrap-current.git
