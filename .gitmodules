@@ -5,3 +5,6 @@
 	path = freeciv-qt-git
 	url = https://github.com/thaewrapt/freeciv-qt-git.git
 
+[submodule "freeciv-git"]
+	path = freeciv-git
+	url = https://github.com/thaewrapt/freeciv-git.git
