@@ -1,3 +1,6 @@
 [submodule "arch-bootstrap-current"]
 	path = arch-bootstrap-current
 	url = https://github.com/thaewrapt/arch-bootstrap-current.git
+[submodule "freeciv-git"]
+	path = freeciv-git
+	url = https://github.com/thaewrapt/freeciv-git.git
