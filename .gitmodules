@@ -9,3 +9,8 @@
 [submodule "freeciv-git"]
 	path = freeciv-git
 	url = https://github.com/thaewrapt/freeciv-git.git
+
+[submodule "xdg-menu-hook-git"]
+	path = xdg-menu-hook-git
+	url = https://github.com/thaewrapt/xdg-menu-hook-git
+
