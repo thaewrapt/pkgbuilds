@@ -2,14 +2,6 @@
 	path = arch-bootstrap-current
 	url = https://github.com/thaewrapt/arch-bootstrap-current.git
 	
-[submodule "freeciv-qt-git"]
-	path = freeciv-qt-git
-	url = https://github.com/thaewrapt/freeciv-qt-git.git
-
-[submodule "freeciv-git"]
-	path = freeciv-git
-	url = https://github.com/thaewrapt/freeciv-git.git
-
 [submodule "xdg-menu-hook-git"]
 	path = xdg-menu-hook-git
 	url = https://github.com/thaewrapt/xdg-menu-hook-git
