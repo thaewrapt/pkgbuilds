@@ -10,3 +10,11 @@
 	path = maelstrom
 	url = https://github.com/thaewrapt/maelstrom.git
 
+[submodule "freeciv-experimental-git"]
+	path = freeciv-experimental-git
+	url = https://github.com/thaewrapt/freeciv-experimental-git.git
+
+[submodule "freeciv-experimental-qt-git"]
+	path = freeciv-experimental-qt-git
+	url = https://github.com/thaewrapt/freeciv-experimental-qt-git.git
+
