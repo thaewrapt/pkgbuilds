@@ -4,7 +4,7 @@
 	
 [submodule "xdg-menu-hook-git"]
 	path = xdg-menu-hook-git
-	url = https://github.com/thaewrapt/xdg-menu-hook-git
+	url = https://github.com/thaewrapt/xdg-menu-hook-git.git
 
 [submodule "maelstrom"]
 	path = maelstrom
