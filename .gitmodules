@@ -18,3 +18,7 @@
 	path = freeciv-experimental-qt-git
 	url = https://github.com/thaewrapt/freeciv-experimental-qt-git.git
 
+[submodule "mass-effect-modder-git"]
+	path = mass-effect-modder-git
+	url = https://github.com/thaewrapt/mass-effect-modder-git.git
+
