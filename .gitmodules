@@ -12,7 +12,7 @@
 
 [submodule "freeciv-experimental-git"]
 	path = freeciv-experimental-git
-	url = https://github.com/thaewrapt/freeciv-experimental-git.git
+	url = https://github.com/thaewrapt/aur-freeciv-experimental-git.git
 
 [submodule "freeciv-experimental-qt-git"]
 	path = freeciv-experimental-qt-git
